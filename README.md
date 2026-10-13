@@ -175,6 +175,7 @@ MCP (Model Context Protocol) 适配 Package，连接外部工具生态。
 - [gentle-engram](https://pi.dev/packages/gentle-engram) - 跨会话、压缩和 MCP 代理共享的本地或云端大脑。`pi install npm:gentle-engram`
 - [@samfp/pi-memory](https://pi.dev/packages/@samfp/pi-memory) - 从会话中学习更正、偏好和模式，注入未来对话。`pi install npm:@samfp/pi-memory`
 - [pi-memory-honcho](https://github.com/acsezen/pi-memory-honcho) - Honcho 支持的持久记忆，跨工作空间记忆共享。`pi install npm:pi-memory-honcho`
+- [pi-mate-companion](https://github.com/m-rui001/pi-mate-companion) - 伴侣向持久记忆：记什么由模型自己调 `remember`/`ponder` 决定，不自动入库；强度按 ACT-R 随真实经过时间衰减、被召回加固、睡眠时选择性降尺度。MIT。`pi install npm:@m-rui/pi-mate-companion`
 
 ---
 

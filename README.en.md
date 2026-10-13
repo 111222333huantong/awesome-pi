@@ -175,6 +175,7 @@ Persistent memory packages for retaining information across sessions.
 - [gentle-engram](https://pi.dev/packages/gentle-engram) - Local or cloud-based brain shared across sessions, compactions, and MCP agents. `pi install npm:gentle-engram`
 - [@samfp/pi-memory](https://pi.dev/packages/@samfp/pi-memory) - Learns corrections, preferences, and patterns from sessions and injects them into future conversations. `pi install npm:@samfp/pi-memory`
 - [pi-memory-honcho](https://github.com/acsezen/pi-memory-honcho) - Honcho-backed persistent memory with cross-workspace memory sharing. `pi install npm:pi-memory-honcho`
+- [pi-mate-companion](https://github.com/m-rui001/pi-mate-companion) - Companion-style persistent memory where nothing is filed automatically: the model chooses what survives with `remember`/`ponder`, strength decays over real elapsed time per ACT-R, recall reinforces it, and sleep consolidates. MIT. `pi install npm:@m-rui/pi-mate-companion`
 
 ---
 
