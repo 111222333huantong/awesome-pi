@@ -131,6 +131,7 @@ Terminal UI enhancement packages for better interactive experience.
 - [pi-tidy](https://github.com/Andy8647/pi-tidy) - Tool folding: a reply's tool calls collapse into one line, click for one row per call. Edit diffs stay side by side and height-capped; failed calls and background jobs are never folded away. `pi install npm:pi-tidy`
 - [pi-ghostty-tab](https://github.com/Andy8647/pi-ghostty-tab) - Ghostty tab titles as a status readout: spinner, task summary, done / failed / waiting icons, and a system notification when the tab is not focused. `pi install npm:pi-ghostty-tab`
 - [pi-webman](https://github.com/steelburn/pi-webman) - A browser cockpit for the Pi session running in your terminal: live transcript, token flux, context pressure, model core, thinking level, tool loadout, activity log, plus `/` command completion and a keyboard-driven command palette. Loopback-only web UI, zero runtime dependencies. `pi install npm:pi-webman`
+- [pi-claude-code](https://github.com/111222333huantong/pi-claude-code) - Claude Code-style TUI: collapsible tool cards, rich diffs, a compact turn view, two-line statusline and four themes; plus `/context`, `@` session/subagent references and image paste. `pi install npm:pi-claude-code`
 
 ---
 

@@ -131,6 +131,7 @@ MCP (Model Context Protocol) 适配 Package，连接外部工具生态。
 - [pi-tidy](https://github.com/Andy8647/pi-tidy) - 工具调用折叠：一次回复的多个调用压成一行，点开看单条；编辑 diff 并排显示且限制高度，失败行和后台任务不会被折进去。`pi install npm:pi-tidy`
 - [pi-ghostty-tab](https://github.com/Andy8647/pi-ghostty-tab) - 把 Ghostty 标签页标题当状态提示用：spinner、任务摘要，跑完 / 失败 / 等待回答时换图标，标签页不在前台时发系统通知。`pi install npm:pi-ghostty-tab`
 - [pi-webman](https://github.com/steelburn/pi-webman) - 浏览器里的 Pi 驾驶舱：实时对话流、token 通量、上下文压力、模型核心、思考档位、工具负载、活动日志，以及 `/` 命令补全与键盘驱动的指令面板；本地回环 Web UI，零运行时依赖。`pi install npm:pi-webman`
+- [pi-claude-code](https://github.com/111222333huantong/pi-claude-code) - Claude Code 风格 TUI：工具卡折叠、rich diff、compact 紧凑模式、两行状态栏与四套主题；含 `/context` 上下文分解、`@` 引用历史 session/subagent、图片粘贴。`pi install npm:pi-claude-code`
 
 ---
 
